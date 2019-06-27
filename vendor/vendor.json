@@ -9,10 +9,10 @@
 			"revisionTime": "2019-03-01T06:25:29Z"
 		},
 		{
-			"checksumSHA1": "VYdoAEZtpA+NdiClqT1IRBy9+zI=",
+			"checksumSHA1": "giewB2MsF6+uckDdN/x39zdnJZI=",
 			"path": "github.com/gin-gonic/gin",
-			"revision": "4b6df417e4bda80a698a64aa085779a7ad1269c0",
-			"revisionTime": "2019-05-29T06:54:55Z"
+			"revision": "75b9d2bed75a2d96198738ac3974211924dbde6c",
+			"revisionTime": "2019-06-12T13:07:15Z"
 		},
 		{
 			"checksumSHA1": "SohLqPWFKw8qKTCx4tMpG9bSDPI=",
@@ -33,10 +33,10 @@
 			"revisionTime": "2019-05-29T06:54:55Z"
 		},
 		{
-			"checksumSHA1": "eogu3//JJlPNpP1BLWa5cgWL1NI=",
+			"checksumSHA1": "JQPCz2eb1nfugBO9WWLrUCR7C9E=",
 			"path": "github.com/go-redis/redis",
-			"revision": "58f22c56fdbdf07f5d6f5e397a6e134b94c65b0c",
-			"revisionTime": "2018-11-03T10:07:25Z"
+			"revision": "f8704e4b6b43ad8e687c926a0235c6e33dfc4a64",
+			"revisionTime": "2019-06-09T09:29:23Z"
 		},
 		{
 			"checksumSHA1": "z12gGj6VbVBcPOvof1aCM+DVGRU=",
