@@ -2,7 +2,7 @@
 
 package config
 
-const (
+var (
 	// 是否开启debug模式
 	DEBUG = false
 	ENV = "PRO"
